@@ -10,7 +10,7 @@ O projeto é uma simulação simples de um sistema de devolução de livros, que
 4. `/devolucao-concluida`: A rota final, que informa ao usuário que a devolução do livro foi concluída.
 
 ## Publicação para visualização
-[[[I'm an inline-style link](https://main--benevolent-zabaione-a0c20a.netlify.app/)]([https://www.google.com](https://main--benevolent-zabaione-a0c20a.netlify.app/))
+(https://main--benevolent-zabaione-a0c20a.netlify.app/)[https://www.google.com](https://main--benevolent-zabaione-a0c20a.netlify.app/)
 
 ## Uso do Replace
 
